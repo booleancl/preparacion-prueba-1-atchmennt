@@ -8,7 +8,6 @@ cd soymas
 mkdir carreras 
 cd carreras
 mkdir administracion 
-mkdir administracion 
 mkdir artes-culinarias
 mkdir peluqueria
 mkdir programacion 
