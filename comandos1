@@ -22,6 +22,9 @@ cd artes-culinarias
 touch lista.txt
 cd ..
 cd peluqueria
+touch lista.txt
+cd ..
+cd programacion
 mkdir modulo-00
 mkdir modulo-01
 cd modulo-00
